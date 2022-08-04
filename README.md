@@ -22,6 +22,10 @@ Accepted Criteria:
 -THEN the saved events persist
 
 
+
+Website url: https://kevingkorza.github.io/WorkDay_Schedule/
+
+
 Screencapture of schedule: 
 <img width="1569" alt="Screen Shot 2022-08-04 at 12 14 57 PM" src="https://user-images.githubusercontent.com/107637260/182918312-1931af2f-e5c8-4667-9bbf-c793ebb8fcc0.png">
 
